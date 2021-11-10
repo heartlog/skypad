@@ -1,5 +1,5 @@
 const config = {
-  baseURL: "https://skygear-demo.github.io/skypad",
+  baseURL: "https://heartlog.github.io/skypad",
   skygearAPIEndpoint: "https://skypad.skygeario.com/", // trailing slash is required
   skygearAPIKey: "ac59c61350b14227ad5a6114a40176ba",
   writerUser: "writer",
